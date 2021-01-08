@@ -1,32 +1,39 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
+      "message": "Fixed 098 machine",
+      "tech": "John Doe",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
+      "date": "2021-01-08T15:00:31.156Z",
       "id": 1
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "Server 077 up",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2021-01-08T15:50:53.486Z"
     },
     {
-      "message": "1122 wireless down",
+      "message": "1122 wireless downnnnnn",
+      "tech": "John Doe",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
+      "date": "2021-01-08T15:02:34.388Z",
       "id": 3
     },
     {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
+      "message": "Server 077 down",
       "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "attention": true,
+      "date": "2021-01-08T15:03:00.893Z",
+      "id": 4
+    },
+    {
+      "message": "Changed network card in server 009",
+      "attention": true,
+      "tech": "Haris Brackovic",
+      "date": "2021-01-08T15:51:32.336Z",
+      "id": 5
     }
   ],
   "techs": [
@@ -39,11 +46,6 @@
       "id": 2,
       "firstName": "Sam",
       "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
     }
   ]
 }
